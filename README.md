@@ -1,5 +1,5 @@
 # Nutri.js
-A discord bot that gives you nutritional values for food serverings
+A discord bot that gives you nutritional values for food servings
 
 Bot uses the api from https://api.calorieninjas.com ❤️
 
